@@ -1,0 +1,44 @@
+body{
+    font: 16px/28px arial, sans-serif;
+    background-color: antiquewhite;
+    color: #333;
+
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: #fff;
+}
+
+.header {
+    padding: 20px 
+}
+
+.header .judul{
+    font-size: 40px;
+    font-weight: bold;
+}
+.header ul li {
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.header a:hover{
+    background-color: lightblue;
+    color: white;
+}
+
+.gambar {
+    height: 500px;
+    weight : 50px;
+    border-top: ;
+
+}
+.gambar img{
+    width: 100px;
+    margin: auto;
+}
+
+
